@@ -6,7 +6,7 @@
   
 ![qqqqqq](https://github-readme-stats.vercel.app/api?username=top-hoon&show_icons=true&theme=blue)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top-hoon&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top-hoon&layout=compact&theme=tokyonight) -->
 
   
 
