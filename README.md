@@ -6,7 +6,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftop-hoon&count_bg=%23B81D1D&title_bg=%23555555&icon=smugmug.svg&icon_color=%2309C234&title=%EC%96%B4%EC%84%9C%EC%98%A4%EC%8B%9C%EA%B0%9C&edge_flat=false)](https://hits.seeyoufarm.com)
   
-![qqqqqq](https://github-readme-stats.vercel.app/api?username=top-hoon&show_icons=true&theme=)
+![qqqqqq](https://github-readme-stats.vercel.app/api?username=top-hoon&show_icons=true&theme=dark)
  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
   
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top-hoon&layout=compact&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top-hoon&layout=compact&theme=dracula) -->
 
   
 
