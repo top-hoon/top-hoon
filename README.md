@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black">&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">&nbsp
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top-hoon&layout=compact&theme=dracula) -->
 
 
