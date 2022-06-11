@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <h3 align="center"><b> Studying </b></h3>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">&nbsp
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top-hoon&layout=compact&theme=dracula) -->
 
