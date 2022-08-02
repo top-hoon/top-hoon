@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=black">&nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black">&nbsp
+<img src="https://ghchart.rshah.org/top-hoon" />
 
  
 <h3 align="center"><b> Studying </b></h3>
