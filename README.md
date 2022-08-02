@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=Waving&color=30:,100:a82da8&height=250&section=header&text=Top-hoon&descSize=15&descAlignY=65&fontSize=70&fontColor=FFF" />
   
 ## Hi there 👋
-## [Notion](https://cotton-moon-593.notion.site/05d8b299f7f648eeb6f97d3fbdb24871)
+
  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftop-hoon&count_bg=%23B81D1D&title_bg=%23555555&icon_color=%2309C234&edge_flat=false)](https://hits.seeyoufarm.com)
